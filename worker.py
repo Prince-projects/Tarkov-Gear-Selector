@@ -102,9 +102,6 @@ for x in range(0, len(twoList)):
 
 def cleanString(category, endCategory, prices, names):
     for i in category:
-        if "cowboy" in i:
-            category.remove(category[i])
-            break
         cleaned_str = i.replace("\n", "")
         cleaned_str1 = cleaned_str.replace("_name", "")
         cleaned_str2 = cleaned_str1.replace('"', "")
