@@ -1,5 +1,5 @@
 # Tarkov-Gear-Selector
-A tarkov gear selector made in python. Using https://pypi.org/project/pykov-eft/ as a base, thank you! They are 100% a more competent coder than myself or ethaisa.
+A tarkov gear selector made in python by Prince and Ethasia. Using https://pypi.org/project/pykov-eft/ as a base, thank you! They are 100% a more competent coder than myself or ethaisa.
 
 For contact: Prince#1428 OR ethaisa123#1396
 
