@@ -15,7 +15,7 @@ Rig: Bear 6g112
 Pack: Sanitar_Medbag
 Armor: Ushanka (Not really armour but 20k is a little cheap for armor, don't you think?)
 
-WARNING: This does ping a tarkov API. If you ping it too much, there's a chance yoyu may be banned because they think you're a bot. USE AT YOUR OWN RISK WE ARE NOT LIABLE FOR ANY NEGATIVE EFFECTS.
+WARNING: This does ping a tarkov API. If you ping it too much, there's a chance you may be banned because they think you're a bot. USE AT YOUR OWN RISK WE ARE NOT LIABLE FOR ANY NEGATIVE EFFECTS.
 
 Usage instructions:
 Download all the files and chuck them into the same folder.
